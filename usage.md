@@ -137,7 +137,7 @@ git pull
 git submodule update
 ```
 
-**Warning**
+**_Warning_**
 
 > _With this setup you need to create a new commit in the master repository, to use a new state in the submodule. You need to repeat this procedure every time you want to use another state in one of the submodules. See[Adding a submodule to a Git repository and tracking a branch](https://www.vogella.com/tutorials/GitSubmodules/article.html#submodules_trackbranch) for tracking a certain branch of a submodule._
 
