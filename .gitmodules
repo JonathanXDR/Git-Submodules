@@ -1,0 +1,9 @@
+[submodule "Copy-School-Email"]
+	path = Copy-School-Email
+	url = https://github.com/Pascal1414/Copy-School-Email
+[submodule "Notenhandler"]
+	path = Notenhandler
+	url = https://github.com/Pascal1414/Notenhandler
+[submodule "Schiffe-Versenken"]
+	path = Schiffe-Versenken
+	url = https://github.com/Pascal1414/Schiffe-Versenken
